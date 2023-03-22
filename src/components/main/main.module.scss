@@ -1,0 +1,10 @@
+.main{
+    margin-bottom: 6rem;
+
+    @media screen and (min-width: 1024px) {
+        position: relative;
+        height: 550px;
+        width: 1300px;
+        margin: auto;
+    }
+}
